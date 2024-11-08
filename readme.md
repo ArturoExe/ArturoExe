@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I love exploring technologies, building software, 
 
 ## 🌍 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/arturo-exe/)
+- [LinkedIn](https://www.linkedin.com/in/arturo-exe2022/)
 - [Twitter](https://twitter.com/ArturoExe)
 - [Personal Website](https://arturo.dev)
 
