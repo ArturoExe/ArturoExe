@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on <br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Hello Im Arturo, im a software engineer and problem solver
 
 
 # 💻 Tech Stack:
